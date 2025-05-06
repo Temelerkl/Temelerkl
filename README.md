@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Temel</h1>
-<h3 align="center">I am a Front-End Develope (React.JS and Next.JS) from Turkey</h3>
+<h3 align="center">I am a Front-End Developer (React.JS and Next.JS) from Turkey</h3>
 
 ---
 
